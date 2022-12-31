@@ -12,9 +12,11 @@ This code can be used to calculate total earnings, the number of values you have
 
 ## Screenshot
 
+![2022-12-31](https://user-images.githubusercontent.com/117319952/210123374-266a4f0a-2b3b-47b8-88b9-fedfebe7535a.png)
 
 ## Links
 
+https://darylcata.github.io/Console-Finances/
 
 ## License
 
