@@ -144,7 +144,7 @@ function largest(difference) {
 
 var largestmonth = finances[difference.indexOf(largest(difference)) + 1][0]
 
-console.log("Greatest Increase in Profits: " + largestmonth + " " + largest(difference))
+console.log("Greatest Increase in Profits: " + largestmonth + " $" + largest(difference))
 
 // The greatest decrease in losses (date and amount) over the entire period.
 
@@ -162,6 +162,6 @@ function smallest(difference) {
 
 var smallestmonth = finances[difference.indexOf(smallest(difference)) + 1][0]
 
-console.log("Greatest Decrease in Profits: " + smallestmonth + " " + smallest(difference))
+console.log("Greatest Decrease in Profits: " + smallestmonth + " $" + smallest(difference))
 
 
